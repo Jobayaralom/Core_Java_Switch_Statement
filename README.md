@@ -12,5 +12,7 @@ Create a method that accepts an integer and returns a string with the correspond
 Anything Else -> Error
 Your output could be the following:
 Please enter an integer (1-7):
+
 >2
+
 Weekday 2 is Tuesday!
